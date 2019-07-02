@@ -1,0 +1,1 @@
+FOR %a IN (C:\gac\*.dll) DO "C:\Program Files(x86)\Microsoft SDks\Windows\v8.1A\bin\NETFX 4.5.1 Tools\gacutil.exe /i" %a

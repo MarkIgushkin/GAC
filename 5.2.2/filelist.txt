@@ -1,0 +1,13 @@
+C:\gac\5.2.2\Antlr3.Runtime.dll
+C:\gac\5.2.2\EntityFramework.dll
+C:\gac\5.2.2\EntityFramework.SqlServer.dll
+C:\gac\5.2.2\Microsoft.Web.Infrastructure.dll
+C:\gac\5.2.2\Newtonsoft.Json.dll
+C:\gac\5.2.2\System.Web.Helpers.dll
+C:\gac\5.2.2\System.Web.Mvc.dll
+C:\gac\5.2.2\System.Web.Optimization.dll
+C:\gac\5.2.2\System.Web.Razor.dll
+C:\gac\5.2.2\System.Web.WebPages.Deployment.dll
+C:\gac\5.2.2\System.Web.WebPages.dll
+C:\gac\5.2.2\System.Web.WebPages.Razor.dll
+C:\gac\5.2.2\WebGrease.dll
